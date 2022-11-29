@@ -23,6 +23,6 @@
   
 Here are some ideas to get you started:
 
-- 🔭 Estou trabalhando com Machine Learning Engineering
+- 🔭 Estou trabalhando como Machine Learning Engineering
 - 🌱 Estudando MLOps
 - 😄 Pronouns: Ele/Dele
